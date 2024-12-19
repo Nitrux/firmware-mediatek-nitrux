@@ -1,0 +1,14 @@
+Source: firmware-mediatek-nitrux
+Section: misc
+Priority: optional
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/Nitrux/firmware-mediatek-nitrux
+
+
+Package: firmware-mediatek-nitrux
+Architecture: amd64
+Conflicts: firmware-mediatek
+Description: Firmware files for MediaTek and Ralink chips for networking, SoCs and media.
+ This package includes firmware for various MediaTek and Ralink chips for networking, SoCs and media.
