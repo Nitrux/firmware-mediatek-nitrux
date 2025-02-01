@@ -1,4 +1,4 @@
-firmware-mediatek-nitrux (0.0.1)  nitrux; urgency=medium
+firmware-mediatek-nitrux (0.0.2)  nitrux; urgency=medium
 
   * Add firmware files from linux-firmware as of commit 722d0d12.
 
