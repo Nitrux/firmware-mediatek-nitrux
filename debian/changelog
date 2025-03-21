@@ -1,3 +1,9 @@
+firmware-mediatek-nitrux (0.0.3)  nitrux; urgency=medium
+
+  * Add firmware files from linux-firmware as of commit e61b8981.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 21 Mar 2025 14:07:00 -0500
+
 firmware-mediatek-nitrux (0.0.2)  nitrux; urgency=medium
 
   * Add firmware files from linux-firmware as of commit 722d0d12.
